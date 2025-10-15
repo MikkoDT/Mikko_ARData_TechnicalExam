@@ -119,31 +119,23 @@ Project Manager
 
 ### 📁 Suggested Folder Structure
 
-Web3_Landing_Page_Project/
-│
-├── 01_Project_Plan/
-│   ├── Timeline.xlsx
-│   ├── Scope_Document.pdf
-│
-├── 02_Design/
-│   ├── Wireframes/
-│   ├── Final_Designs/
-│
-├── 03_Development/
-│   ├── Frontend/
-│   ├── Backend/
-│   ├── Blockchain/
-│
-├── 04_Testing/
-│   ├── QA_Reports/
-│
-├── 05_Deployment/
-│   ├── Hosting_Details/
-│
-└── 06_Client_Communication/
-    ├── Meeting_Notes/
-    ├── Email_Logs/
-
+- **01_Project_Plan/**
+  - `Timeline.xlsx`
+  - `Scope_Document.pdf`
+- **02_Design/**
+  - `Wireframes/`
+  - `Final_Designs/`
+- **03_Development/**
+  - `Frontend/`
+  - `Backend/`
+  - `Blockchain/`
+- **04_Testing/**
+  - `QA_Reports/`
+- **05_Deployment/**
+  - `Hosting_Details/`
+- **06_Client_Communication/**
+  - `Meeting_Notes/`
+  - `Email_Logs/`
 ---
 
 ### 📄 Key Documentation to Maintain

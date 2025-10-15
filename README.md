@@ -1,3 +1,13 @@
+**Author:** Mikko De Torres  
+**Date:** October 2025  
+**Document Version:** 1.0  
+**Submission Type:** Technical Exam – Project Management Task  
+
+📄 **View the full project plan on Google Docs:**  
+[➡️ Open Web3 Project Management Document](https://docs.google.com/document/d/1QpllY_xL1_08uwP4coZdsgwub7KRfL2cyl1kWqKy4-g/edit?tab=t.0)
+
+---
+
 # 🧩 Web3 Startup Project Management
 
 ## 1. Project Scope Summary

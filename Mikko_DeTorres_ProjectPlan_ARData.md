@@ -118,3 +118,35 @@ Project Manager
 ## 7. Project Folder Setup & Documentation Plan
 
 ### 📁 Suggested Folder Structure
+
+- **01_Project_Plan/**
+  - `Timeline.xlsx`
+  - `Scope_Document.pdf`
+- **02_Design/**
+  - `Wireframes/`
+  - `Final_Designs/`
+- **03_Development/**
+  - `Frontend/`
+  - `Backend/`
+  - `Blockchain/`
+- **04_Testing/**
+  - `QA_Reports/`
+- **05_Deployment/**
+  - `Hosting_Details/`
+- **06_Client_Communication/**
+  - `Meeting_Notes/`
+  - `Email_Logs/`
+---
+
+### 📄 Key Documentation to Maintain
+- **Project Charter:** Overview of objectives, scope, and risks.  
+- **Timeline Tracker:** Weekly deliverables and milestone monitoring.  
+- **Design Files:** UI/UX mockups, color palettes, and responsive layouts.  
+- **Technical Docs:** API endpoints, wallet integration steps, and build notes.  
+- **QA Reports:** Test cases, bug logs, and resolutions.  
+- **Client Communication Logs:** Meeting summaries and decision records.  
+
+---
+
+**End of Document**  
+*Prepared by Mikko De Torres – Project Manager*  

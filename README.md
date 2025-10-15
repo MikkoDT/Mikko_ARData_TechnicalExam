@@ -144,3 +144,17 @@ Web3_Landing_Page_Project/
     ├── Meeting_Notes/
     ├── Email_Logs/
 
+---
+
+### 📄 Key Documentation to Maintain
+- **Project Charter:** Overview of objectives, scope, and risks.  
+- **Timeline Tracker:** Weekly deliverables and milestone monitoring.  
+- **Design Files:** UI/UX mockups, color palettes, and responsive layouts.  
+- **Technical Docs:** API endpoints, wallet integration steps, and build notes.  
+- **QA Reports:** Test cases, bug logs, and resolutions.  
+- **Client Communication Logs:** Meeting summaries and decision records.  
+
+---
+
+**End of Document**  
+*Prepared by Mikko De Torres – Project Manager*  
